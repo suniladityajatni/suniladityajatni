@@ -1,4 +1,6 @@
 ### Hi there 👋
+## My Codeforces Stats
+![Codeforces Stats Card](https://codeforces-stats-api.herokuapp.com/stats?username=aditya_01&theme=1)
 
 <!--
 **suniladityajatni/suniladityajatni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
