@@ -15,7 +15,7 @@
 
 <!-- - ⚡ Fun fact **!false, it's funny because it's true.** -->
 <br>
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=suniladityajatni&label=Profile%20views&color=0e75b6&style=flat" alt="aditya" /> </p>
 
 ## 👊My Codeforces Stats
   <p align="center"><img src="https://codeforces-stats-api.herokuapp.com/stats?username=aditya_01&theme=1" alt="aditya"  /></p>
