@@ -18,7 +18,9 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=suniladityajatni&label=Profile%20views&color=0e75b6&style=flat" alt="aditya" /> </p>
 
 ## 👊My Codeforces Stats
-  <p align="center"><img src="https://codeforces-stats-api.herokuapp.com/stats?username=aditya_01&theme=1" alt="aditya"  /></p>
+  <!-- <p align="center"><img src="https://codeforces-stats-api.herokuapp.com/stats?username=aditya_01&theme=1" alt="aditya"  /></p> -->
+  ![Github stats](https://github-readme-stats.vercel.app/api?username=sargupta&theme=highcontrast&show_icons=true&count_private=true)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=sargupta&layout=compact)
 <!--  ![Codeforces Stats Card](https://codeforces-stats-api.herokuapp.com/stats?username=aditya_01&theme=1) </p> -->
  <br/>
 
