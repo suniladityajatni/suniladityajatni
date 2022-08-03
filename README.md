@@ -22,7 +22,7 @@
 <!--   ![Github stats](https://github-readme-stats.vercel.app/api?username=sargupta&theme=highcontrast&show_icons=true&count_private=true) -->
 <!-- ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=sargupta&layout=compact) -->
 <!--  ![Codeforces Stats Card](https://codeforces-stats-api.herokuapp.com/stats?username=aditya_01&theme=1) </p> -->
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=aiswarika&theme=algolia" alt="aiswarika"  /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=suniladityajatni&theme=algolia" alt="aiswarika"  /></p>
  <br/>
 
 ## 🛠️ My Skills
