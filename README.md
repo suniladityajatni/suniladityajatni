@@ -18,9 +18,9 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=suniladityajatni&label=Profile%20views&color=0e75b6&style=flat" alt="aditya" /> </p>
 
 ## 🔥 Streak Stats
-[![trophy](https://github-profile-trophy.vercel.app/?username=AtrikGit6174&theme=discord&margin-w=15&margin-h=15&column=9)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=AtrikGit6174&theme=discord&margin-w=15&margin-h=15&column=9)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=suniladityajatni&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats) &nbsp; &nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suniladityajatni&theme=midnight-purple&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=suniladityajatni&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats) &nbsp; &nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suniladityajatni&theme=midnight-purple&langs_count=10)](https://github.com/anuraghazra/github-readme-stats) -->
   <!-- <p align="center"><img src="https://codeforces-stats-api.herokuapp.com/stats?username=aditya_01&theme=1" alt="aditya"  /></p> -->
 <!--   ![Github stats](https://github-readme-stats.vercel.app/api?username=sargupta&theme=highcontrast&show_icons=true&count_private=true) -->
 <!-- ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=sargupta&layout=compact) -->
